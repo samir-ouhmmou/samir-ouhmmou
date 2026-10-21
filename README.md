@@ -87,9 +87,9 @@ A text classification project using TF-IDF feature extraction and cosine similar
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [My LinkedIn Profile](YOUR_LINKEDIN_URL)
+- 💼 LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/samirouhmmou)
 - 📧 Email: YOUR_EMAIL
-- 💻 GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+- 💻 GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/samir-ouhmmou)
 
 ---
 
