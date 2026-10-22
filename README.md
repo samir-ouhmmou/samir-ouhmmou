@@ -1,21 +1,21 @@
-# Hi there, I'm Samir Ouhmmou 👋
+# Hi there, I'm Samir Ouhmmou 
 
-### 💻 Software Engineering Student | Backend Java Developer | Full Stack & DevOps Enthusiast
+### Software Engineering Student | Backend Java Developer | Full Stack & DevOps Enthusiast
 
 I'm a Master's student in **Computer Engineering (Ingénierie Informatique)**, passionate about software development, backend engineering, and modern DevOps practices.
 
 I enjoy building web applications, designing REST APIs, working with databases, and exploring technologies that make applications scalable, reliable, and maintainable.
 
-- 🎓 Master's student in Computer Engineering
-- 💻 Interested in **Java, Spring Boot, Backend Development & Full Stack**
-- ☁️ Learning **Docker, Jenkins, CI/CD, Kubernetes & Cloud Computing**
-- 🗄️ Experience with relational and NoSQL databases
-- 🚀 Looking for a **PFE internship for 2027** in Backend Development, Full Stack Development, or DevOps
-- 📍 Morocco | Open to opportunities in Morocco and France
+-  Master's student in Computer Engineering
+-  Interested in **Java, Spring Boot, Backend Development & Full Stack**
+-  Learning **Docker, Jenkins, CI/CD, Kubernetes & Cloud Computing**
+-  Experience with relational and NoSQL databases
+-  Looking for a **PFE internship for 2027** in Backend Development, Full Stack Development, or DevOps
+-  Morocco | Open to opportunities in Morocco and France
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -45,39 +45,39 @@ I enjoy building web applications, designing REST APIs, working with databases, 
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 📅 School Timetable Management System
+###  School Timetable Management System
 A web application for managing school timetables, teachers, classrooms, and schedules, with automatic timetable generation.
 
 **Technologies:** React, Node.js, Express.js, MySQL, JWT
 
-### 📋 Absence Management System
+###  Absence Management System
 A web application for managing student absences, with role-based access, database persistence, and report generation.
 
 **Technologies:** Java, Jakarta EE, JSF, JPA/Hibernate, MySQL
 
-### 🚗 Car Price Prediction
+###  Car Price Prediction
 A machine learning project that predicts car prices using data preprocessing and a neural network model.
 
 **Technologies:** Python, Pandas, TensorFlow/Keras, Flask
 
-### 📝 Text Classification with k-NN
+### Text Classification with k-NN
 A text classification project using TF-IDF feature extraction and cosine similarity to classify news articles.
 
 **Technologies:** Python, Scikit-learn, NLP
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 - Oracle Cloud Infrastructure (OCI)
 - Cisco Intermediate Certification
-- Oracle Database@AWS Architect Professional
+
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -85,11 +85,11 @@ A text classification project using TF-IDF feature extraction and cosine similar
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
-- 💼 LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/samirouhmmou)
-- 📧 Email: YOUR_EMAIL
-- 💻 GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/samir-ouhmmou)
+- 💼 LinkedIn:(www.linkedin.com/in/samirouhmmou)
+- 📧 Email: ouhmmousamir@gmail.com
+- 💻 GitHub: (https://github.com/samir-ouhmmou)
 
 ---
 
