@@ -3,7 +3,7 @@
 **Software Engineering | Data & AI | DevOps & Cloud**
 
  Master's Student in Computer Engineering  
- Looking for a **6-month PFE Internship — January/February 2027**
+ Looking for a **4-6-month PFE Internship — January/February 2027**
 
 ### Languages and Tools I Use
 
